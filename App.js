@@ -40,3 +40,4 @@ export default function App() {
     </>
   );
 }
+// Navegación configurada entre pantallas
