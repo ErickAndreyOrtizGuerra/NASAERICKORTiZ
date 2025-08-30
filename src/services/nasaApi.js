@@ -34,3 +34,4 @@ export const getRoverInfo = (photo) => {
     cameraAbbr: photo.camera.name
   };
 };
+// API configurada para consumir datos de NASA Mars Rover
